@@ -48,7 +48,6 @@ This comprehensive dashboard is organized into 5 strategic view segments, each a
 - **Driver Ratings Distribution** - Card-based visualization displaying average driver ratings (4.23-4.24) across all vehicle types for easy comparison
 - **Customer Ratings Analysis** - Card layout showcasing customer satisfaction ratings (4.40-4.41) across vehicle categories, enabling quality benchmarking
 
-
 ## 🚗 Vehicle Fleet Analysis
 
 | Vehicle Type | Total Bookings | Success Bookings | Avg Distance | Total Distance |
